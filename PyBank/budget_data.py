@@ -47,6 +47,3 @@ print(f'Greatest Decrease in Profits: {DiffMinDate} : ($ {DiffMin})')
 
 
 
-
-
-

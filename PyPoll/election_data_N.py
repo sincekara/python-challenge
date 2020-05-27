@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import csv
 import os
 
@@ -42,7 +41,7 @@ print(result)
 # Writing to a text file
 with open(os.path.join(__location__, 'result.txt'), 'w') as result_file:
     result_file.write(result)
-=======
+# =======
 import csv
 import os
 
@@ -86,4 +85,4 @@ print(result)
 # Writing to a text file
 with open(os.path.join(__location__, 'result.txt'), 'w') as result_file:
     result_file.write(result)
->>>>>>> 42f06604624239e6d0e2bbc18c7c4fba69c775ee
+# >>>>>>> 42f06604624239e6d0e2bbc18c7c4fba69c775ee
