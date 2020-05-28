@@ -29,7 +29,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 * In this challenge, the fundamental task is helping a small, rural town modernize its vote-counting process based on the set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
 
-Based on the data provided, a Python script will be created in order to analyze the votes and calculate each of the following:
+* Based on the data provided, a Python script will be created in order to analyze the votes and calculate each of the following:
 
   * The total number of votes cast
 
